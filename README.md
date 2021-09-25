@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hey! I'm glad you found my public ✨ GitHub Profile ✨! You're on the right tracks, for sure!
+
+Unfortunately, I moved away 💼 and left GitHub for GitLab! Find my GitLab profile [**here**](https://gitlab.com/lovallat).
+
+This account is still around because you could find it (and looks like you just did 😉 so I made the right decision not to delete it), and because I tend to create issues or PR on repositories hosted here. But all my personnal repos are on GitLab!
+
+See you there! 👨‍🎤
+
 <!--
 **LouisVallat/LouisVallat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
